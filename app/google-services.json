@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315115202805",
+    "project_id": "gestor-de-bolso-kotlin",
+    "storage_bucket": "gestor-de-bolso-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315115202805:android:b46f74570a36f3d10e3dbc",
+        "android_client_info": {
+          "package_name": "app.gb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNjVlOoiEfx--xDk5lJY3SUkjUFF3lEYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
